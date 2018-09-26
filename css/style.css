@@ -34,15 +34,15 @@ p,h1,h2,h3,h4,h5,h6{
     background-color: white;
     text-align: center;
     padding: 65px;
-    margin: 30px 10px;
+    margin: 40px 10px;
 }
 .ba-bronze,
 .ba-silver{
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 35px;
+    padding-bottom: 35px;
 }
 .ba-cup-of-coffee{
-    margin: 15px;
+    margin: 10px;
 }
 
 .ba-price{
@@ -111,8 +111,3 @@ p,h1,h2,h3,h4,h5,h6{
 	height: inherit;
 	margin: auto;
 }
-
-
-
-
-
